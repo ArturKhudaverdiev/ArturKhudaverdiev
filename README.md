@@ -5,20 +5,22 @@
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
-<li>🔭 I’m currently working on <a href="https://github.com/Spiderpig86/Cirrus">Cirrus</a>.</li>
-<li>🧐 Learning about <strong>serverless architectures</strong>, <strong>distributed systems</strong>, and a bit of <strong>ML</strong>.</li>
-<li>👨‍💻 Most of my projects are available on <a href="https://github.com/Spiderpig86">Github</a>.</li>
-<li>📝 I <del>regulary</del> write articles on <a href="https://blog.stanleylim.me">my blog</a>.</li>
-<li>💬 Ping me about <strong>react, koa, security, and cloud stuff</strong>.</li>
-<li>📙 Check out my <a href="https://www.stanleylim.me/resume/resume.pdf">resume</a>.</li>
+
+<li>:telescope: I’m working as a QA Software Engineer with different Languages(Python,JavaScript,SQL,HTML),services and programs.
+<li>🌱 I’m  engaged in self-education, learning programming languages, tasks in Codewars or Hackerrank, and improving my knowledge base in Automation testing.   
+<li>👨‍💻 Most of my projects are available on <a href="https://github.com/ArturKhudaverdiev">Github</a>.</li>
+<li>📙 Check out my <a href="[https://www.stanleylim.me/resume/resume.pdf](https://docs.google.com/document/d/1FRDAOEYYcPM0vVJGlKZ5WVvFI0NiURTGpQ_1XwL9B0E/edit?usp=sharing)">resume</a>.</li>
 <li>🎉 Fun Fact: 我也会讲中文。</li>
 </ul>
+
+
 
 Feel free to learn more & connect with me:
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-artur-khudaverdiev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/artur-khudaverdiev/)](https://www.linkedin.com/in/artur-khudaverdiev/)
-[![Gmail Badge](https://img.shields.io/badge/-bkarpov86@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bkarpov86@gmail.com)](mailto:bkarpov86@gmail.com)
+  <a href="https://www.linkedin.com/in/tetianavolkova/">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
 
 
 ## ⚡ Languages & Tools:
