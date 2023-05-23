@@ -9,7 +9,7 @@
 <li>:telescope: I’m working as a QA Software Engineer with different Languages(Python,JavaScript,SQL,HTML),services and programs.
 <li>🌱 I’m  engaged in self-education, learning programming languages, tasks in Codewars or Hackerrank, and improving my knowledge base in Automation testing.   
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/ArturKhudaverdiev">Github</a>.</li>
-<li>📙 Check out my <a href="[https://www.stanleylim.me/resume/resume.pdf](https://docs.google.com/document/d/1FRDAOEYYcPM0vVJGlKZ5WVvFI0NiURTGpQ_1XwL9B0E/edit?usp=sharing)">resume</a>.</li>
+<li>📙 Check out my <a href="https://docs.google.com/document/d/1FRDAOEYYcPM0vVJGlKZ5WVvFI0NiURTGpQ_1XwL9B0E/edit?usp=sharing">resume</a>.</li>
 <li>🎉 Fun Fact: 我也会讲中文。</li>
 </ul>
 
@@ -18,7 +18,7 @@
 Feel free to learn more & connect with me:
 
 
-  <a href="https://www.linkedin.com/in/tetianavolkova/">
+  <a href="https://www.linkedin.com/in/artur-khudaverdiev/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 
