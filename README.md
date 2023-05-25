@@ -10,7 +10,7 @@
 <li>🌱 I’m  engaged in self-education, learning programming languages, tasks in Codewars or Hackerrank, and improving my knowledge base in Automation testing.   
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/ArturKhudaverdiev">Github</a>.</li>
 <li>📙 Check out my <a href="https://docs.google.com/document/d/1FRDAOEYYcPM0vVJGlKZ5WVvFI0NiURTGpQ_1XwL9B0E/edit?usp=sharing">resume</a>.</li>
-<li>🎉 Fun Fact: 我也会讲中文。</li>
+<li>🎉 Fun Fact: 我不会说中文。</li>
 </ul>
 
 
